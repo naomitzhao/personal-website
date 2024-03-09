@@ -1,0 +1,16 @@
+.main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(255, 238, 240);
+    min-height: 100vh;
+}
+
+.contentBox {
+    color: rgb(199, 92, 108);
+    background-color: white;
+    padding: 100px 200px;
+    border-radius: 40px;
+    display: flex;
+}
